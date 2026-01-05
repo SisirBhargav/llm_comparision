@@ -1,0 +1,39 @@
+# -------------------------
+# Virtual Environment
+# -------------------------
+env/
+venv/
+.venv/
+
+# -------------------------
+# Environment & Secrets
+# -------------------------
+.env
+api_key_txt.txt
+
+# -------------------------
+# Python cache
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Streamlit / App cache
+# -------------------------
+.streamlit/
+
+# -------------------------
+# Data / Generated Reports
+# -------------------------
+data/
+*.csv
+
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
